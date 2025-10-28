@@ -1,0 +1,11 @@
+Model Information:
+* title:	Animated Disco Ball - Low Poly
+* source:	https://sketchfab.com/3d-models/animated-disco-ball-low-poly-714f0b588bf64c0daf83ea48588ca082
+* author:	GrafilArtwork (https://sketchfab.com/EtFil)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Animated Disco Ball - Low Poly" (https://sketchfab.com/3d-models/animated-disco-ball-low-poly-714f0b588bf64c0daf83ea48588ca082) by GrafilArtwork (https://sketchfab.com/EtFil) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
